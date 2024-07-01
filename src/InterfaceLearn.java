@@ -56,6 +56,7 @@ public class InterfaceLearn  implements  Interface2 ,Interface3{
         System.out.println("loging..");
     }
 
+
     @Override
     public void invesment() {
 
